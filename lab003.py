@@ -1,5 +1,3 @@
-#import zmq
-#from pyre import Pyre
 from lab_chat import get_peer_node, join_group, get_channel
 
 def get_username():
